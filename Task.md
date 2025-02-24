@@ -1,0 +1,3 @@
+# Description
+
+Task: Develop a small crypto trading watchlist (with 2–3 coins) and run a brief, one-week paper trade to track potential entry/exit points and results. At the end of the week, compile a concise summary of the trade rationale, performance outcomes, and lessons learned. This aligns directly with your goal of improving trading and will produce actionable findings and a real outcome to evaluate.

@@ -1,0 +1,10 @@
+Correlation between Nasdaq and Bitcoin daily returns: 0.11
+Number of divergence days: 81
+
+Divergence details (first 5 rows):
+        date  nasdaq_pct   btc_pct
+2 2024-02-28   -0.532450  4.635498
+4 2024-03-01    1.505695 -2.014696
+5 2024-03-04   -0.356814  2.862871
+6 2024-03-05   -1.794964  8.141614
+7 2024-03-06    0.628368 -5.712423
