@@ -9,7 +9,7 @@ end_date = datetime(2025, 2, 24)
 start_date = end_date - timedelta(days=365)
 
 # Replace with your actual Marketstack API key
-MARKETSTACK_API_KEY = "e7c489ef2372fcec0667807ee8ef0061"
+MARKETSTACK_API_KEY = "INSERT_YOUR_API_KEY"
 
 # Use Nasdaq Composite symbol without the caret (compatible with Marketstack)
 NASDAQ_SYMBOL = "QQQ"
